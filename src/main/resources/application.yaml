@@ -1,0 +1,14 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: temporal-rest
+  temporal:
+    namespace: default
+    connection:
+      target: 127.0.0.1:7233
+  #jackson:
+    #serialization:
+      #fail-on-self-references: false
+      #fail-on-empty-beans: false
