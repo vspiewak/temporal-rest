@@ -1,6 +1,4 @@
-# Temporal REST
-
-Temporal REST Proxy
+# Temporal REST Proxy
 
 Swagger UI @ http://localhost:8888/swagger-ui/index.html
 
