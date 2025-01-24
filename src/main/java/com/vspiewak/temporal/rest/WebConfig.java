@@ -22,7 +22,6 @@ public class WebConfig implements WebMvcConfigurer {
                 JsonFormat
                         .parser()
                         .ignoringUnknownFields(),
-
                 JsonFormat
                         .printer()
                 //.omittingInsignificantWhitespace()
