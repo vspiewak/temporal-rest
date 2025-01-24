@@ -9,3 +9,8 @@ Based on https://github.com/temporalio/api/blob/master/openapi/openapiv3.yaml
 ## Launch
 
     ./mvnw clean spring-boot:run
+
+
+## Preview
+
+![screenshot](screenshot.png)
